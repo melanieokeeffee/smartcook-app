@@ -1,0 +1,1 @@
+export default function Cart() { return <div>Корзина и расчёт</div>; }

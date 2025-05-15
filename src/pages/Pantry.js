@@ -1,0 +1,1 @@
+export default function Pantry() { return <div>Остатки</div>; }
